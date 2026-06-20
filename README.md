@@ -2,6 +2,18 @@
 
 EventIQ predicts event-related traffic impact and recommends manpower, barricading, emergency support, and diversion plans.
 
+
+## Dashboard
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bbf4d3bf-7fdc-4160-9183-026f3ee8aadb" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a84c472d-a90f-4566-bdd1-c776cd3b7f8f" />
+
+## Architecture
+
+<img width="1536" height="1023" alt="image" src="https://github.com/user-attachments/assets/fe2f5a74-6f5b-41c5-aca5-ebe2282f2e02" />
+
+
 ## What it uses
 - Historical Astram event data
 - Planned/unplanned event type
